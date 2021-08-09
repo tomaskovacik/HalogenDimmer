@@ -9,4 +9,11 @@ Module supports:
   - full on input for high beams, independent of microcontroler, used for light flasher and high beams
   - 30s turn off delay (comming home mode) - require permanent 12v supply and separete switched 12V connection to enable wire 
   
+  # how-to connect module in headlight
+  
+  <img src="https://raw.githubusercontent.com/tomaskovacik/HalogenDimmer/main/how_to_connect.png" />
+  
+  # video
+  
+  https://youtu.be/wNnqLfvapEo
   
