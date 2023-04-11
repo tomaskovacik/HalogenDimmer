@@ -1,4 +1,4 @@
-update=Št 15. júl 2021, 19:23:09 CEST
+update=Ne 12. september 2021, 20:31:38 CEST
 version=1
 last_client=kicad
 [general]
@@ -12,14 +12,8 @@ NetIExt=net
 version=1
 LibDir=
 [eeschema/libraries]
-[SchematicFrame]
-version=1
 [ModEditFrame]
 version=1
-[LibeditFrame]
-version=1
-[sheetnames]
-1=4ddd1f50-00d9-49a7-881b-aad2e935bd6c:
 [pcbnew]
 version=1
 PageLayoutDescrFile=
@@ -322,3 +316,9 @@ uViaDrill=0.1
 dPairWidth=0.2
 dPairGap=0.25
 dPairViaGap=0.25
+[LibeditFrame]
+version=1
+[SchematicFrame]
+version=1
+[sheetnames]
+1=abec8d23-34de-47f5-9710-2731dec6d27d:
