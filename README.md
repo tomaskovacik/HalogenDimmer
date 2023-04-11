@@ -13,6 +13,10 @@ Module supports:
   
   <img src="https://raw.githubusercontent.com/tomaskovacik/HalogenDimmer/main/how_to_connect.png" />
   
+  # pinout
+  
+  <img src="https://raw.githubusercontent.com/tomaskovacik/HalogenDimmer/main/pinout.jpg" />
+  
   # video
   
   https://youtu.be/wNnqLfvapEo
