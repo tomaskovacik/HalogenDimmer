@@ -1,3 +1,6 @@
+// (c) kovo
+//hallogen dimmer
+
 //timer1 @ 64Mhz
 #include <avr/sleep.h>    // Sleep Modes
 #include <avr/power.h>    // Power management
@@ -122,7 +125,7 @@ void loop() {
       //dbgstatus = status;
       //wakeded up, and goes straight to low beams = disable pi is low
       if (/*digitalRead(DISABLE_PIN) &&*/ !digitalRead(ONOFF_PIN))
-        //we start drl and disable it in next run on main loop
+        //we start drl and disable it in next run in main loop
         DRL_ON();
       else
         go2sleep();
